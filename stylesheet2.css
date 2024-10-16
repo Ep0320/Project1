@@ -1,0 +1,301 @@
+
+
+h1 {
+    font-family:"Raleway",sans-serif; font-size:65px;
+    padding-left: 40px;
+}
+p {font-family:"Raleway" 
+}
+
+.side-paragraph {
+    text-align: right;
+    width: 30%;
+    float: right;
+    background-color:#E6B1FB;
+    padding: 10px;
+    padding-right: 10px;
+}
+
+.abcs {
+  font-size: 48px;  
+    text-align: center;
+   position: relative;
+    top: 345px;
+    left: 180px;
+}
+
+.onetwothree {
+    font-size: 48px;
+    text-align: center;
+    position: relative;
+    top: 297px;
+    left: -10px;
+}
+
+.exclamation {
+    font-size: 48px;
+    text-align: center;
+    position: relative;
+    top: 260px ;
+    left: -10px;
+}
+   
+.box {
+    rotate: -27deg;
+    width: 150%;
+    height: 150px;
+    background-color:#e6Caff;
+    
+}
+
+.light {
+    border-top: #DA6AE7 solid 20px;
+    background-color: #EFD3FA;
+}
+
+.dark {
+    border-top: #DA6AE7 solid 20px;
+    background-color: #E6B1FB;
+
+}
+
+.line {
+    border-top: #DA6AE7 solid 20px;
+}
+
+.box p {
+    margin: 0;
+    font-size: 48px;
+    position: relative;
+    top: 25%;
+}
+
+.words {
+   position: relative;
+   top: 350px;
+   left:-135px ;
+   z-index: -2;
+}
+
+
+.fun {
+    position: relative;
+    left: 250px;
+}
+
+.special {
+    position: relative;
+    left: 750px;
+}
+
+
+.loud {
+    position: relative;
+    left: 100px;
+}
+
+.interesting {
+    position: relative;
+    left: 700px;
+    
+}
+
+.creative {
+    font-size: 48px;
+    position: relative;
+    left: 400px;    
+}
+
+body {
+    overflow-x: hidden;
+    background-color:  #e6Caff;
+    margin: 0;
+    
+}
+.purplebox {
+    width: 100%; height: 35px; background-color:#DA6AE7;
+    
+}
+
+.one {
+    position:relative;
+    top: -70px;
+    z-index: -1;
+}
+.two {
+   width: 115% ;
+   position: relative;
+   top: 193px; left: -60px;
+   z-index: 1;
+
+    rotate: 12deg;
+}
+.three {
+height: 20px;
+position: relative;
+top:320px ;
+z-index: -1;
+}
+
+.four {
+height: 20px;
+position: relative;
+top: 280px;
+z-index: -1;
+}
+
+.five {
+    width: 75% ;
+   position: relative;
+   top: -160px; left: 500px;
+   rotate: 157deg;
+   z-index: -1;
+}
+  
+.bigpara {
+    position: relative;
+    width: 100%;
+    top: 620px;
+    background-color:#E6B1FB;
+    padding: 20px;
+
+}
+
+.dot {
+    height: 400px;
+    width: 400px;
+    background-color: #DA6AE7;
+    border-radius: 50%;
+    position: absolute;
+    left: 45%;
+    top: 5%;
+  }
+
+.dottwo {
+    height: 300px;
+    width: 300px;
+    background-color: #E6CAFF;
+    border-radius: 50%;
+    position: absolute;
+    left: 65%;
+    top: 15%;
+}
+
+.dotthree {
+    height: 300px;
+    width: 300px;
+    background-color: #E6CAFF;
+    border-radius: 50%;
+    position: absolute;
+    left: 10%;
+    top: 47%;
+}
+ 
+.dotfour {
+    height: 425px;
+    width: 425px;
+    background-color: #DA6AE7;
+    border-radius: 50%;
+    position: absolute;
+    left: -15%;
+    top: 40%; 
+}
+
+.dotfive {
+    height: 250px;
+    width: 250px;
+    background-color: #DA6AE7;
+    border-radius: 50%;
+    position: absolute;
+    left: 68%;
+    top: 75%;
+}
+
+
+.firstparagraph {
+    position: relative;
+    width: 30%;
+    left: 10%;
+    
+}
+
+.secondparagraph {
+   font-weight: 100;
+    position: relative;
+   left: 50%;
+    width: 45%;
+}
+
+.thirdparagraph {
+    font-weight: bolder;
+    position: relative;
+    left: 7%;
+    width: 55%
+}
+
+.wildtitle {
+    font-family:"Raleway";
+    font-weight: 600;
+    
+}
+
+.wildrobot{
+    position: relative;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px ;
+    left: 120px;
+    width: 35%;
+    top: 725px;
+    display: block;
+    z-index: 3;
+
+}
+
+.wickedtitle {
+    font-family:"Raleway";
+    font-weight: bolder;
+
+}
+
+.wicked {
+    position: relative;
+    text-align: center;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 20px ;
+    left: 700px;
+    width: 30%;
+    top: 508px;
+    display: block;
+    z-index: 3;
+}
+
+.bdaytitle {
+    font-family:"Raleway";
+    font-weight: 300;
+
+}
+
+.joshy {
+    position: relative;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px ;
+    font-weight: bold;
+    left: -240px;
+    width: 90%;
+    top: 50px;
+    display: block;
+    z-index: 3;
+}
+
+.ending {
+    position: relative;
+    width: 380%;
+    left:-550px;
+    top: 75px;
+    background-color:#E6B1FB;
+    padding: 30px;
+    
+}
